@@ -74,7 +74,7 @@ function finalizarWhatsApp() {
     const subtotal = item.preco * item.quantidade;
     total += subtotal;
 
-    const linkProduto = `${window.location.origin}${window.location.pathname.replace("carrinho.html", "")}${item.link}`;
+    const linkProduto = `${window.location.origin}/produto.html?codigo=${item.codigo}`;
 
 mensagem += `• ${item.nome}%0A`;
 mensagem += `Código: ${item.codigo}%0A`;
