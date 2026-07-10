@@ -39,7 +39,7 @@ const produtos = [
   {
     id: 2,
     codigo: "00002",
-    nome: "Camisa Olympique Lyonnais 25/26 Visitante",
+    nome: "Camisa Lyon 25/26 Visitante",
     categoria: "Clubes Internacionais",
     tipo: "normal",
     marca: "Adidas",
