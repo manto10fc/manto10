@@ -2,7 +2,7 @@ const produtos = [
   {
     id: 1,
     codigo: "00001",
-    nome: "São Paulo 2025",
+    nome: "Camisa São Paulo 2025 Comemorativa",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
     marca: "New Balance",
@@ -39,11 +39,11 @@ const produtos = [
   {
     id: 2,
     codigo: "00002",
-    nome: "Lyon 2025",
+    nome: "Camisa Olympique Lyonnais 25/26 Visitante",
     categoria: "Clubes Internacionais",
     tipo: "normal",
     marca: "Adidas",
-    temporada: "2025",
+    temporada: "2025/2026",
     versao: "Torcedor",
 
     estoque: {
@@ -76,7 +76,7 @@ const produtos = [
   {
     id: 3,
     codigo: "00003",
-    nome: "Noruega",
+    nome: "Camisa Noruega 2026 Casa",
     categoria: "Seleções",
     tipo: "normal",
     marca: "Nike",
@@ -113,11 +113,11 @@ const produtos = [
   {
     id: 4,
     codigo: "00004",
-    nome: "Milan Retrô",
+    nome: "Camisa Milan Retrô 06/07 Casa",
     categoria: "Retrôs",
     tipo: "retro",
     marca: "Adidas",
-    temporada: "Retrô",
+    temporada: "2006/2007",
     versao: "Torcedor",
 
     estoque: {
