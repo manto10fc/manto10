@@ -80,7 +80,7 @@ const produtos = [
     categoria: "Seleções",
     tipo: "normal",
     marca: "Nike",
-    temporada: "2025",
+    temporada: "2025/2026",
     versao: "Torcedor",
 
     estoque: {
@@ -179,6 +179,43 @@ const produtos = [
     imagens: [
       "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.jpeg",
       "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 6,
+    codigo: "00006",
+    nome: "Camisa Uruguai I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2025/2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 1,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.jpeg",
+      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-costas.jpeg"
     ],
 
     destaque: true
