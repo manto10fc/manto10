@@ -331,4 +331,78 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 10,
+    codigo: "00010",
+    nome: "Camisa Portugal I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/portugal-2026/portugal-2026-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/portugal-2026/portugal-2026-frente.jpeg",
+      "img/produtos/selecoes/portugal-2026/portugal-2026-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 11,
+    codigo: "00011",
+    nome: "Camisa França I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/franca-2026/franca-2026-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/franca-2026/franca-2026-frente.jpeg",
+      "img/produtos/selecoes/franca-2026/franca-2026-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
