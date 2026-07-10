@@ -257,4 +257,41 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 8,
+    codigo: "00008",
+    nome: "Camisa Remo II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Volt",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.jpeg",
+      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
