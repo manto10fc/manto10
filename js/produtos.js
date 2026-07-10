@@ -220,4 +220,41 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 7,
+    codigo: "00007",
+    nome: "Camisa Corinthians II 2000",
+    categoria: "Retrôs",
+    tipo: "normal",
+    marca: "Topper",
+    temporada: "2000",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.jpeg",
+      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
