@@ -145,5 +145,42 @@ const produtos = [
     ],
 
     destaque: true
-  }
+  },
+
+  {
+    id: 5,
+    codigo: "00005",
+    nome: "Camisa Boca Juniors 25/26 Casa",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "25/26",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 1,
+        M: 1,
+        G: 1,
+        GG: 1
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.jpeg",
+      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
