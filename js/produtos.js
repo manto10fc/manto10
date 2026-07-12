@@ -479,4 +479,78 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 14,
+    codigo: "00014",
+    nome: "Camisa Real Madrid II 06/07",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Adidas",
+    temporada: "2006/2007",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.jpeg",
+      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 15,
+    codigo: "00015",
+    nome: "Camisa Inter de Milão II 97/98",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Umbro",
+    temporada: "1997/1998",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.jpeg",
+      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
