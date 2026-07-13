@@ -553,4 +553,41 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 16,
+    codigo: "00016",
+    nome: "Camisa Milan II 06/07",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Adidas",
+    temporada: "2006/2007",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.jpeg",
+      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
