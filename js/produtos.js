@@ -767,7 +767,7 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-02-03-ii/barcelona-96-97-ii-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.jpeg",
     imagens: [
       "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.jpeg",
       "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-costas.jpeg"
