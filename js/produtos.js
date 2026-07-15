@@ -590,4 +590,41 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 17,
+    codigo: "00017",
+    nome: "Camisa Barcelona I 96/97",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Kappa",
+    temporada: "1996/1997",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.jpeg",
+      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
