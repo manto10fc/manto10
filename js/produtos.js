@@ -1219,4 +1219,115 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 34,
+    codigo: "00034",
+    nome: "Camisa Portugal II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 35,
+    codigo: "00035",
+    nome: "Camisa Brasil I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 36,
+    codigo: "00036",
+    nome: "Camisa Brasil Vermelha 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Jordan",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.jpeg",
+      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
