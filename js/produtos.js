@@ -960,4 +960,189 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 27,
+    codigo: "00027",
+    nome: "Camisa Arsenal I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 28,
+    codigo: "00028",
+    nome: "Camisa PSG I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 29,
+    codigo: "00029",
+    nome: "Camisa Real Madrid I 25/26",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025/2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.jpeg",
+      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 30,
+    codigo: "00030",
+    nome: "Camisa Real Madrid II 25/26",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025/2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.jpeg",
+      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 31,
+    codigo: "00031",
+    nome: "Camisa Real Madrid I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
