@@ -775,4 +775,189 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 22,
+    codigo: "00022",
+    nome: "Camisa Corinthians I 12/13",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2012/2013",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.jpeg",
+      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 23,
+    codigo: "00023",
+    nome: "Camisa Portugal II 04/05",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2004/2005",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.jpeg",
+      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 24,
+    codigo: "00024",
+    nome: "Camisa Real Madrid II 05/06",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Adidas",
+    temporada: "2005/2006",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.jpeg",
+      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 25,
+    codigo: "00025",
+    nome: "Camisa Real Madrid I 11/12",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Adidas",
+    temporada: "2011/2012",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.jpeg",
+      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 26,
+    codigo: "00026",
+    nome: "Camisa Real Madrid II 98/99",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Adidas",
+    temporada: "1998/1999",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.jpeg",
+      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
