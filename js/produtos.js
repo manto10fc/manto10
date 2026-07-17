@@ -1589,4 +1589,263 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 44,
+    codigo: "00044",
+    nome: "Camisa Flamengo II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 45,
+    codigo: "00045",
+    nome: "Camisa São Paulo II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "New Balance",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 46,
+    codigo: "00046",
+    nome: "Camisa São Paulo I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "New Balance",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.jpeg",
+      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 47,
+    codigo: "00047",
+    nome: "Camisa Palmeiras II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 48,
+    codigo: "00048",
+    nome: "Camisa Palmeiras I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.jpeg",
+      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 49,
+    codigo: "00049",
+    nome: "Camisa Corinthians II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 50,
+    codigo: "00050",
+    nome: "Camisa Corinthians I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.jpeg",
+      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
