@@ -1877,10 +1877,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
+    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
     imagens: [
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.webp"
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.jpeg"
     ],
 
     destaque: true
