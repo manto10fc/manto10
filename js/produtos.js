@@ -1863,7 +1863,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 1,
+        G: 0,
         GG: 0
       },
       encomenda: ["P", "M", "G", "GG"]
@@ -1877,10 +1877,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.webp"
     ],
 
     destaque: true
