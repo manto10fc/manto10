@@ -97,7 +97,7 @@ mensagem += `Subtotal: R$ ${subtotal},00%0A%0A`;
 
   mensagem += `TOTAL: R$ ${total},00`;
 
-  window.open("https://wa.me/5591984290048?text=" + mensagem, "_blank");
+  window.open("https://wa.me/5591984106703?text=" + mensagem, "_blank");
 }
 
 atualizarContadorCarrinho();
