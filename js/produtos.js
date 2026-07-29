@@ -2196,7 +2196,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 1,
+        G: 0,
         GG: 0
       },
       encomenda: ["P", "M", "G", "GG"]
@@ -2233,7 +2233,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 1,
+        G: 0,
         GG: 0
       },
       encomenda: ["P", "M", "G", "GG"]
@@ -2270,7 +2270,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 1,
+        G: 0,
         GG: 0
       },
       encomenda: ["P", "M", "G", "GG"]
@@ -2307,7 +2307,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 1,
+        G: 0,
         GG: 0
       },
       encomenda: ["P", "M", "G", "GG"]
