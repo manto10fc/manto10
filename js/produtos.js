@@ -2181,4 +2181,152 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 60,
+    codigo: "00060",
+    nome: "Camisa Colômbia I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 1,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 61,
+    codigo: "00061",
+    nome: "Camisa Portugal Edição Especial 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 1,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.jpeg",
+      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 62,
+    codigo: "00062",
+    nome: "Camisa Cabo Verde I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Capelli",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 1,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 63,
+    codigo: "00063",
+    nome: "Camisa Espanha I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 1,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
