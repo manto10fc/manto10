@@ -2329,4 +2329,448 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 64,
+    codigo: "00064",
+    nome: "Camisa Bayern de Munique I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 65,
+    codigo: "00065",
+    nome: "Camisa Barcelona I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 66,
+    codigo: "00066",
+    nome: "Camisa Manchester City I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/city-26-27-i/city-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 67,
+    codigo: "00067",
+    nome: "Camisa Real Betis I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Hummel",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 68,
+    codigo: "00068",
+    nome: "Camisa Inter de Milão I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 69,
+    codigo: "00069",
+    nome: "Camisa Milan II 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.jpeg",
+      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 70,
+    codigo: "00070",
+    nome: "Camisa Newcastle I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 71,
+    codigo: "00071",
+    nome: "Camisa Aston Villa I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 72,
+    codigo: "00072",
+    nome: "Camisa Celtic I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 73,
+    codigo: "00073",
+    nome: "Camisa Lyon I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 74,
+    codigo: "00074",
+    nome: "Camisa Arsenal III 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.jpeg",
+      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 75,
+    codigo: "00075",
+    nome: "Camisa Manchester United I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.jpeg",
+      "img/produtos/internacionais/united-26-27-i/united-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
