@@ -1885,4 +1885,300 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 52,
+    codigo: "00052",
+    nome: "Camisa Santos I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Umbro",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.jpeg",
+      "img/produtos/brasileiros/santos-26-i/santos-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 53,
+    codigo: "00053",
+    nome: "Camisa Bahia II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 54,
+    codigo: "00054",
+    nome: "Camisa Sport I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Kappa",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.jpeg",
+      "img/produtos/brasileiros/sport-26-i/sport-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 55,
+    codigo: "00055",
+    nome: "Camisa Botafogo I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Mizuno",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.jpeg",
+      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 56,
+    codigo: "00056",
+    nome: "Camisa Santos II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Umbro",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 57,
+    codigo: "00057",
+    nome: "Camisa Atlético Paranaense II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Umbro",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 58,
+    codigo: "00058",
+    nome: "Camisa Palmeiras Goleiro III 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.jpeg",
+      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 59,
+    codigo: "00059",
+    nome: "Camisa Botafogo Goleiro I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Mizuno",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.jpeg",
+      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
