@@ -2773,4 +2773,411 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 76,
+    codigo: "00076",
+    nome: "Camisa Cruzeiro I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.jpeg",
+      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 77,
+    codigo: "00077",
+    nome: "Camisa Cruzeiro II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-i-frente.jpeg",
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 78,
+    codigo: "00078",
+    nome: "Camisa Internacional I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.jpeg",
+      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 79,
+    codigo: "00079",
+    nome: "Camisa Internacional II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 80,
+    codigo: "00080",
+    nome: "Camisa Grêmio I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "New Balance",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.jpeg",
+      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 81,
+    codigo: "00081",
+    nome: "Camisa Grêmio II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "New Balance",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 82,
+    codigo: "00082",
+    nome: "Camisa Fluminense I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.jpeg",
+      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 83,
+    codigo: "00083",
+    nome: "Camisa Fluminense II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 84,
+    codigo: "00084",
+    nome: "Camisa Vitória I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Volt",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.jpeg",
+      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 85,
+    codigo: "00085",
+    nome: "Camisa Coritiba I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Diadora",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.jpeg",
+      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 86,
+    codigo: "00086",
+    nome: "Camisa Botafogo II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Mizuno",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
