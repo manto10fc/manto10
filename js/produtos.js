@@ -3283,9 +3283,9 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.jpeg",
+    imagem: "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.jpeg",
+      "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.webp",
       "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-costas.jpeg"
     ],
 
