@@ -2841,8 +2841,8 @@ const produtos = [
 
     imagem: "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.jpeg",
     imagens: [
-      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-i-frente.jpeg",
-      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-i-costas.jpeg"
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.jpeg",
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-costas.jpeg"
     ],
 
     destaque: true
