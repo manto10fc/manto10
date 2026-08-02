@@ -3624,4 +3624,78 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 99,
+    codigo: "00099",
+    nome: "Camisa Remo I 1999",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Penalty",
+    temporada: "1999",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/remo-1999-i/remo-1999-i-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/remo-1999-i/remo-1999-i-frente.jpeg",
+      "img/produtos/retros/remo-1999-i/remo-1999-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 100,
+    codigo: "00100",
+    nome: "Camisa Paysandu I 2003",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Finta",
+    temporada: "2003",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.jpeg",
+    imagens: [
+      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.jpeg",
+      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
