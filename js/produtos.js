@@ -3727,10 +3727,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.png",
     imagens: [
-      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.png",
+      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-costas.png"
     ],
 
     destaque: true
