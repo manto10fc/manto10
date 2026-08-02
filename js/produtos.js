@@ -3698,4 +3698,1261 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 101,
+    codigo: "00101",
+    nome: "Camisa Paraguai I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/paraguai-26-27-i/paraguai-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 102,
+    codigo: "00102",
+    nome: "Camisa Espanha II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 103,
+    codigo: "00103",
+    nome: "Camisa Brasil II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Jordan",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 104,
+    codigo: "00104",
+    nome: "Camisa Argentina I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 105,
+    codigo: "00105",
+    nome: "Camisa Argentina II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 106,
+    codigo: "00106",
+    nome: "Camisa Alemanha I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 107,
+    codigo: "00107",
+    nome: "Camisa Alemanha II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 108,
+    codigo: "00108",
+    nome: "Camisa França II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 109,
+    codigo: "00109",
+    nome: "Camisa México I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 110,
+    codigo: "00110",
+    nome: "Camisa México II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+  {
+    id: 111,
+    codigo: "00111",
+    nome: "Camisa Inglaterra I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 112,
+    codigo: "00112",
+    nome: "Camisa Inglaterra II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 113,
+    codigo: "00113",
+    nome: "Camisa Itália I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 114,
+    codigo: "00114",
+    nome: "Camisa Itália II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 115,
+    codigo: "00115",
+    nome: "Camisa Colômbia II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 116,
+    codigo: "00116",
+    nome: "Camisa Bélgica I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 117,
+    codigo: "00117",
+    nome: "Camisa Bélgica II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 118,
+    codigo: "00118",
+    nome: "Camisa Japão I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 119,
+    codigo: "00119",
+    nome: "Camisa Japão II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 120,
+    codigo: "00120",
+    nome: "Camisa Holanda I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 121,
+    codigo: "00121",
+    nome: "Camisa Holanda II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 122,
+    codigo: "00122",
+    nome: "Camisa Escócia I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 123,
+    codigo: "00123",
+    nome: "Camisa Argélia I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 124,
+    codigo: "00124",
+    nome: "Camisa Uruguai II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 125,
+    codigo: "00125",
+    nome: "Camisa Equador II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Marathon",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 126,
+    codigo: "00126",
+    nome: "Camisa República Tcheca II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 127,
+    codigo: "00127",
+    nome: "Camisa Austria II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 128,
+    codigo: "00128",
+    nome: "Camisa África do Sul II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 129,
+    codigo: "00129",
+    nome: "Camisa Jamaica I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 130,
+    codigo: "00130",
+    nome: "Camisa EUA I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 131,
+    codigo: "00131",
+    nome: "Camisa EUA II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 132,
+    codigo: "00132",
+    nome: "Camisa Coreia do Sul II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 133,
+    codigo: "00133",
+    nome: "Camisa Marrocos I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.jpeg",
+      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-costas.jpeg"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 134,
+    codigo: "00134",
+    nome: "Camisa Marrocos II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.jpeg",
+    imagens: [
+      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.jpeg",
+      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
