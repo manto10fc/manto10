@@ -4955,4 +4955,78 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 135,
+    codigo: "00135",
+    nome: "Camisa Barcelona II 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/barca-26-27-ii/barca-26-27-ii-frente.png",
+    imagens: [
+      "img/produtos/internacionais/barca-26-27-ii/barca-26-27-ii-frente.png",
+      "img/produtos/internacionais/barca-26-27-ii/barca-26-27-ii-costas.png"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 136,
+    codigo: "00136",
+    nome: "Camisa Barcelona III 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0
+      },
+      encomenda: ["P", "M", "G", "GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.jpeg",
+    imagens: [
+      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.jpeg",
+      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-costas.jpeg"
+    ],
+
+    destaque: true
+  },
 ];
