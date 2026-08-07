@@ -2691,10 +2691,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-frente.webp",
+      "img/produtos/internacionais/lyon-26-27-i/lyon-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3579,10 +3579,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-frente.png",
     imagens: [
-      "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-frente.jpeg",
-      "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-costas.jpeg"
+      "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-frente.png",
+      "img/produtos/internacionais/real-26-27-ii/real-26-27-ii-costas.png"
     ],
 
     destaque: true
