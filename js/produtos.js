@@ -14,9 +14,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -51,9 +54,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -88,9 +94,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -125,9 +134,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -162,9 +174,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 1,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -199,9 +214,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 1,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -236,9 +254,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -273,9 +294,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -310,9 +334,12 @@ const produtos = [
         P: 57,
         M: 204,
         G: 303,
-        GG: 285
+        GG: 285,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -347,9 +374,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 8,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -384,9 +414,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -421,9 +454,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -458,9 +494,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -495,9 +534,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -532,9 +574,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -569,9 +614,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -606,9 +654,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -643,9 +694,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -680,9 +734,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -717,9 +774,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -754,9 +814,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -791,9 +854,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -828,9 +894,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -865,9 +934,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -902,9 +974,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -939,9 +1014,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -976,9 +1054,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1013,9 +1094,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1050,9 +1134,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1087,9 +1174,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1124,9 +1214,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1161,9 +1254,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1198,9 +1294,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1235,9 +1334,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1272,9 +1374,12 @@ const produtos = [
         P: 63,
         M: 158,
         G: 182,
-        GG: 189
+        GG: 189,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1309,9 +1414,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1346,9 +1454,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1383,9 +1494,12 @@ const produtos = [
         P: 3,
         M: 8,
         G: 12,
-        GG: 8
+        GG: 8,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1420,9 +1534,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1457,9 +1574,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1494,9 +1614,12 @@ const produtos = [
         P: 8,
         M: 8,
         G: 16,
-        GG: 9
+        GG: 9,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1531,9 +1654,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1568,9 +1694,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1605,9 +1734,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1642,9 +1774,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1679,9 +1814,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1716,9 +1854,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 20
+        GG: 20,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1753,9 +1894,12 @@ const produtos = [
         P: 13,
         M: 41,
         G: 82,
-        GG: 97
+        GG: 97,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1790,9 +1934,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1827,9 +1974,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1864,9 +2014,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1901,9 +2054,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1938,9 +2094,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -1975,9 +2134,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2012,9 +2174,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2049,9 +2214,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2086,9 +2254,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2123,9 +2294,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2160,9 +2334,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2197,9 +2374,12 @@ const produtos = [
         P: 3,
         M: 6,
         G: 6,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2234,9 +2414,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2271,9 +2454,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2308,9 +2494,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2345,9 +2534,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2382,9 +2574,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2419,9 +2614,12 @@ const produtos = [
         P: 2,
         M: 2,
         G: 4,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2456,9 +2654,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2493,9 +2694,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2530,9 +2734,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2567,9 +2774,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2604,9 +2814,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2641,9 +2854,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2678,9 +2894,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2715,9 +2934,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2752,9 +2974,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2789,9 +3014,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 10
+        GG: 10,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2826,9 +3054,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2863,9 +3094,12 @@ const produtos = [
         P: 1,
         M: 14,
         G: 8,
-        GG: 5
+        GG: 5,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2900,9 +3134,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2937,9 +3174,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -2974,9 +3214,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3011,9 +3254,12 @@ const produtos = [
         P: 4,
         M: 10,
         G: 8,
-        GG: 7
+        GG: 7,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3048,9 +3294,12 @@ const produtos = [
         P: 1,
         M: 8,
         G: 5,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3085,9 +3334,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3122,9 +3374,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3159,9 +3414,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3196,9 +3454,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3233,9 +3494,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3270,9 +3534,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3307,9 +3574,12 @@ const produtos = [
         P: 1,
         M: 5,
         G: 3,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3344,9 +3614,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3381,9 +3654,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3418,9 +3694,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3455,9 +3734,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3492,9 +3774,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3529,9 +3814,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3566,9 +3854,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3603,9 +3894,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3640,9 +3934,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3677,9 +3974,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3714,9 +4014,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3751,9 +4054,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3788,9 +4094,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3825,9 +4134,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 36,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3862,9 +4174,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3899,9 +4214,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3936,9 +4254,12 @@ const produtos = [
         P: 3,
         M: 3,
         G: 6,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -3973,9 +4294,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4010,9 +4334,12 @@ const produtos = [
         P: 3,
         M: 1,
         G: 2,
-        GG: 3
+        GG: 3,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4047,9 +4374,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4083,9 +4413,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4120,9 +4453,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4157,9 +4493,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4194,9 +4533,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4231,9 +4573,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4268,9 +4613,12 @@ const produtos = [
         P: 3,
         M: 4,
         G: 7,
-        GG: 4
+        GG: 4,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4305,9 +4653,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4342,9 +4693,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4379,9 +4733,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4416,9 +4773,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4453,9 +4813,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4490,9 +4853,12 @@ const produtos = [
         P: 1,
         M: 0,
         G: 3,
-        GG: 44
+        GG: 44,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4527,9 +4893,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4564,9 +4933,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4601,9 +4973,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4638,9 +5013,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4675,9 +5053,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4712,9 +5093,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4749,9 +5133,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4786,9 +5173,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4823,9 +5213,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4860,9 +5253,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4897,9 +5293,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4934,9 +5333,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -4971,9 +5373,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {
@@ -5008,9 +5413,12 @@ const produtos = [
         P: 0,
         M: 0,
         G: 0,
-        GG: 0
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
       },
-      encomenda: ["P", "M", "G", "GG"]
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
     },
 
     preco: {

@@ -40,6 +40,15 @@ function renderizarCarrinho() {
           <p>${item.modalidade === "prontaEntrega" ? "⚡ Pronta Entrega" : "📦 Encomenda"}</p>
           <p>Tamanho: ${item.tamanho}</p>
           <p>Quantidade: ${item.quantidade}</p>
+
+          ${item.personalizacao ? `
+            <div class="cart-personalizacao">
+              <p><strong>Personalização:</strong></p>
+              <p>Nome: ${item.nomePersonalizado}</p>
+              <p>Número: ${item.numeroPersonalizado}</p>
+            </div>
+          ` : ""}
+
           <p>Subtotal: R$ ${subtotal},00</p>
 
           <button onclick="removerProduto(${index})">Remover</button>

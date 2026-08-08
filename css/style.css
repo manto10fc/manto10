@@ -2217,3 +2217,66 @@ body:has(.cart-summary) .header-actions {
     width: 100%;
   }
 }
+/* =========================================
+   TABELA DE MEDIDAS
+========================================= */
+
+.tabela-medidas {
+  width: 100%;
+  margin-top: 32px;
+  padding: 22px;
+  background: #151515;
+  border: 1px solid #2d2d2d;
+  border-radius: 18px;
+}
+
+.tabela-medidas h2 {
+  margin: 0 0 18px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 800;
+  text-align: center;
+  text-transform: none;
+}
+
+.tabela-medidas img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.tabela-medidas-dica {
+  margin: 18px 0 0;
+  padding: 14px 16px;
+  color: #e7e7e7;
+  background: #1e1e1e;
+  border: 1px solid #353535;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.tabela-medidas-dica strong {
+  color: #e4bd22;
+}
+@media (max-width: 768px) {
+  .tabela-medidas {
+    margin-top: 26px;
+    padding: 14px;
+    border-radius: 15px;
+  }
+
+  .tabela-medidas h2 {
+    margin-bottom: 14px;
+    font-size: 21px;
+  }
+
+  .tabela-medidas-dica {
+    margin-top: 14px;
+    padding: 12px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+}

@@ -10,6 +10,16 @@ let personalizacaoSelecionada = false;
 let nomePersonalizado = "";
 let numeroPersonalizado = "";
 
+const acrescimoPorTamanho = {
+  P: 0,
+  M: 0,
+  G: 0,
+  GG: 0,
+  "2GG": 10,
+  "3GG": 15,
+  "4GG": 20
+};
+
 function renderizarProdutos() {
   if (!lista) return;
 
@@ -209,6 +219,8 @@ function atualizarPrecoModal() {
 
   let preco = produtoSelecionado.preco[modalidadeSelecionada];
 
+  preco += acrescimoPorTamanho[tamanhoSelecionado] || 0;
+
   if (personalizacaoSelecionada) {
     preco += produtoSelecionado.valorPersonalizacao;
   }
@@ -251,6 +263,9 @@ function selecionarTamanho(tamanho, botao) {
   });
 
   botao.classList.add("active");
+
+  atualizarPrecoModal();
+
 }
 
 function alterarQuantidade(valor) {
@@ -296,9 +311,11 @@ function adicionarAoCarrinho() {
 
   let precoFinal = produtoSelecionado.preco[modalidadeSelecionada];
 
-  if (personalizacaoSelecionada) {
-    precoFinal += produtoSelecionado.valorPersonalizacao;
-  }
+precoFinal += acrescimoPorTamanho[tamanhoSelecionado] || 0;
+
+if (personalizacaoSelecionada) {
+  precoFinal += produtoSelecionado.valorPersonalizacao;
+}
 
   carrinho.push({
     id: produtoSelecionado.id,

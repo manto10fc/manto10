@@ -11,6 +11,16 @@ let tamanhoProduto = null;
 let quantidadeProduto = 1;
 let personalizacaoProduto = false;
 
+const acrescimoPorTamanho = {
+  P: 0,
+  M: 0,
+  G: 0,
+  GG: 0,
+  "2GG": 10,
+  "3GG": 15,
+  "4GG": 20
+};
+
 if (!produtoAtual) {
   detalhe.innerHTML = `
     <div class="section-title">
@@ -41,6 +51,21 @@ function renderizarProduto() {
             >
           `).join("")}
         </div>
+
+        <section class="tabela-medidas">
+          <h2>Tabela de medidas</h2>
+
+          <img
+            src="img/tabela-medidas/tabela-medidas-torcedor.png"
+            alt="Tabela de medidas das camisas versão torcedor"
+            loading="lazy"
+          >
+
+          <p class="tabela-medidas-dica">
+            <strong>Dica:</strong> As medidas podem variar de 1 a 2 cm.
+            Em caso de dúvida entre dois tamanhos, recomendamos escolher o maior.
+          </p>
+        </section>
       </div>
 
       <div class="product-info-page">
@@ -171,11 +196,14 @@ function selecionarModalidadeProduto(modalidade) {
 function atualizarPrecoProduto() {
   let preco = produtoAtual.preco[modalidadeProduto];
 
+  preco += acrescimoPorTamanho[tamanhoProduto] || 0;
+
   if (personalizacaoProduto) {
     preco += produtoAtual.valorPersonalizacao;
   }
 
-  document.getElementById("produtoPreco").innerText = `R$ ${preco},00`;
+  document.getElementById("produtoPreco").innerText =
+    `R$ ${preco},00`;
 }
 
 function renderizarTamanhosProduto() {
@@ -211,6 +239,8 @@ function selecionarTamanhoProduto(tamanho, botao) {
   });
 
   botao.classList.add("active");
+
+  atualizarPrecoProduto();
 }
 
 function alterarQuantidadeProduto(valor) {
@@ -284,9 +314,11 @@ function adicionarProdutoPaginaAoCarrinho() {
 
   let precoFinal = produtoAtual.preco[modalidadeProduto];
 
-  if (personalizacaoProduto) {
-    precoFinal += produtoAtual.valorPersonalizacao;
-  }
+precoFinal += acrescimoPorTamanho[tamanhoProduto] || 0;
+
+if (personalizacaoProduto) {
+  precoFinal += produtoAtual.valorPersonalizacao;
+}
 
   carrinho.push({
     id: produtoAtual.id,
