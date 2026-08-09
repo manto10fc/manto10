@@ -342,12 +342,27 @@ if (personalizacaoProduto) {
 function renderizarRelacionados() {
   if (!relacionados || !produtoAtual) return;
 
-  const sugestoes = produtos
-    .filter(item =>
-      item.codigo !== produtoAtual.codigo &&
-      item.categoria === produtoAtual.categoria
-    )
-    .slice(0, 10);
+  const limite = 10;
+
+  const codigosManuais = produtoAtual.relacionados || [];
+
+  // 1. Produtos escolhidos manualmente
+  const manuais = codigosManuais
+    .map(codigo => produtos.find(produto => produto.codigo === codigo))
+    .filter(produto =>
+      produto &&
+      produto.codigo !== produtoAtual.codigo
+    );
+
+  // 2. Produtos automáticos da mesma categoria
+  const automaticos = produtos.filter(produto =>
+    produto.codigo !== produtoAtual.codigo &&
+    produto.categoria === produtoAtual.categoria &&
+    !codigosManuais.includes(produto.codigo)
+  );
+
+  // 3. Junta os manuais primeiro e completa automaticamente
+  const sugestoes = [...manuais, ...automaticos].slice(0, limite);
 
   relacionados.innerHTML = "";
 
@@ -368,7 +383,11 @@ function renderizarRelacionados() {
           <span class="product-category">Código ${produto.codigo}</span>
           <span class="product-category">${produto.categoria}</span>
           <p class="price">A partir de R$ ${menorPreco},00</p>
-          <a href="produto.html?codigo=${produto.codigo}" class="hero-btn">
+
+          <a
+            href="produto.html?codigo=${produto.codigo}"
+            class="hero-btn"
+          >
             Ver produto
           </a>
         </div>

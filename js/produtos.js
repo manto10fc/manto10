@@ -1209,6 +1209,8 @@ const produtos = [
     temporada: "2026/2027",
     versao: "Torcedor",
 
+    relacionados: ["00097", "00096", "00030"],
+
     estoque: {
       prontaEntrega: {
         P: 0,
