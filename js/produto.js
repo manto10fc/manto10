@@ -343,8 +343,11 @@ function renderizarRelacionados() {
   if (!relacionados || !produtoAtual) return;
 
   const sugestoes = produtos
-    .filter(item => item.codigo !== produtoAtual.codigo)
-    .slice(0, 4);
+    .filter(item =>
+      item.codigo !== produtoAtual.codigo &&
+      item.categoria === produtoAtual.categoria
+    )
+    .slice(0, 10);
 
   relacionados.innerHTML = "";
 
@@ -365,7 +368,9 @@ function renderizarRelacionados() {
           <span class="product-category">Código ${produto.codigo}</span>
           <span class="product-category">${produto.categoria}</span>
           <p class="price">A partir de R$ ${menorPreco},00</p>
-          <a href="produto.html?codigo=${produto.codigo}" class="hero-btn">Ver produto</a>
+          <a href="produto.html?codigo=${produto.codigo}" class="hero-btn">
+            Ver produto
+          </a>
         </div>
       </div>
     `;
