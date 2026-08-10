@@ -2280,3 +2280,45 @@ body:has(.cart-summary) .header-actions {
     line-height: 1.5;
   }
 }
+/* Título e tabela específicos do mobile */
+.produto-titulo-mobile {
+  display: none;
+}
+
+.tabela-medidas-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+
+  /* Nome da camisa acima da foto */
+  .produto-titulo-mobile {
+    display: block;
+    width: 100%;
+    margin: 10px 0 18px;
+    color: #fff;
+    font-size: 26px;
+    line-height: 1.2;
+    font-weight: 800;
+  }
+
+  /* Esconde o nome antigo que ficava abaixo da foto */
+  .product-info-page > h1 {
+    display: none;
+  }
+
+  /* Esconde a tabela antiga debaixo das fotos */
+  .tabela-medidas-desktop {
+    display: none;
+  }
+
+  /* Mostra a tabela depois dos tamanhos */
+  .tabela-medidas-mobile {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+}
+.product-code {
+  display: none;
+}

@@ -40,6 +40,9 @@ function renderizarProduto() {
   detalhe.innerHTML = `
     <div class="product-page">
       <div class="product-gallery">
+
+      <h1 class="produto-titulo-mobile">${produtoAtual.nome}</h1>
+      
         <img id="produtoImagemPrincipal" src="${imagens[0]}" alt="${produtoAtual.nome}">
 
         <div class="product-thumbs">
@@ -52,7 +55,7 @@ function renderizarProduto() {
           `).join("")}
         </div>
 
-        <section class="tabela-medidas">
+        <section class="tabela-medidas tabela-medidas-desktop">
           <h2>Tabela de medidas</h2>
 
           <img
@@ -95,7 +98,23 @@ function renderizarProduto() {
         <div class="product-message" id="produtoMensagemPrazo"></div>
 
         <h3>Tamanho</h3>
+
         <div class="sizes" id="produtoTamanhos"></div>
+
+        <section class="tabela-medidas tabela-medidas-mobile">
+  <h2>Tabela de medidas</h2>
+
+  <img
+    src="img/tabela-medidas/tabela-medidas-torcedor.png"
+    alt="Tabela de medidas das camisas versão torcedor"
+    loading="lazy"
+  >
+
+  <p class="tabela-medidas-dica">
+    <strong>Dica:</strong> As medidas podem variar de 1 a 2 cm.
+    Em caso de dúvida entre dois tamanhos, recomendamos escolher o maior.
+  </p>
+</section>
 
         <div class="personalizacao-box" id="produtoPersonalizacaoBox">
           <label>
