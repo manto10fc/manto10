@@ -3013,11 +3013,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
-        G: 0,
-        GG: 10,
-"2GG": 0,
+        P: 4,
+        M: 10,
+        G: 8,
+        GG: 9,
+"2GG": 4,
 "3GG": 0,
 "4GG": 0
       },
