@@ -30,10 +30,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/sao-paulo/sao-paulo-frente.jpeg",
+    imagem: "img/produtos/brasileiros/sao-paulo/sao-paulo-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/sao-paulo/sao-paulo-frente.jpeg",
-      "img/produtos/brasileiros/sao-paulo/sao-paulo-costas.jpeg"
+      "img/produtos/brasileiros/sao-paulo/sao-paulo-frente.webp",
+      "img/produtos/brasileiros/sao-paulo/sao-paulo-costas.webp"
     ],
 
     destaque: true
@@ -70,10 +70,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/lyon/lyon-frente.jpeg",
+    imagem: "img/produtos/internacionais/lyon/lyon-frente.webp",
     imagens: [
-      "img/produtos/internacionais/lyon/lyon-frente.jpeg",
-      "img/produtos/internacionais/lyon/lyon-costas.jpeg"
+      "img/produtos/internacionais/lyon/lyon-frente.webp",
+      "img/produtos/internacionais/lyon/lyon-costas.webp"
     ],
 
     destaque: true
@@ -110,10 +110,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/noruega/noruega-frente.jpeg",
+    imagem: "img/produtos/selecoes/noruega/noruega-frente.webp",
     imagens: [
-      "img/produtos/selecoes/noruega/noruega-frente.jpeg",
-      "img/produtos/selecoes/noruega/noruega-costas.jpeg"
+      "img/produtos/selecoes/noruega/noruega-frente.webp",
+      "img/produtos/selecoes/noruega/noruega-costas.webp"
     ],
 
     destaque: true
@@ -150,10 +150,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/milan/milan-frente.jpeg",
+    imagem: "img/produtos/retros/milan/milan-frente.webp",
     imagens: [
-      "img/produtos/retros/milan/milan-frente.jpeg",
-      "img/produtos/retros/milan/milan-costas.jpeg"
+      "img/produtos/retros/milan/milan-frente.webp",
+      "img/produtos/retros/milan/milan-costas.webp"
     ],
 
     destaque: true
@@ -190,10 +190,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.jpeg",
+    imagem: "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.webp",
     imagens: [
-      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.jpeg",
-      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-costas.jpeg"
+      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-frente.webp",
+      "img/produtos/internacionais/boca-juniors-25-26-casa/boca-juniors-25-26-casa-costas.webp"
     ],
 
     destaque: true
@@ -230,10 +230,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.jpeg",
+    imagem: "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.webp",
     imagens: [
-      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.jpeg",
-      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-costas.jpeg"
+      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-frente.webp",
+      "img/produtos/selecoes/uruguai-25-26/uruguai-25-26-costas.webp"
     ],
 
     destaque: true
@@ -270,10 +270,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.jpeg",
+    imagem: "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.webp",
     imagens: [
-      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.jpeg",
-      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-costas.jpeg"
+      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-frente.webp",
+      "img/produtos/retros/corinthians-2000-visitante/corinthians-2000-visitante-costas.webp"
     ],
 
     destaque: true
@@ -310,10 +310,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.jpeg",
-      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-costas.jpeg"
+      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-frente.webp",
+      "img/produtos/brasileiros/remo-2026-ii/remo-2026-ii-costas.webp"
     ],
 
     destaque: true
@@ -350,10 +350,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/flamengo-2026/flamengo-2026-frente.jpeg",
+    imagem: "img/produtos/brasileiros/flamengo-2026/flamengo-2026-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/flamengo-2026/flamengo-2026-frente.jpeg",
-      "img/produtos/brasileiros/flamengo-2026/flamengo-2026-costas.jpeg"
+      "img/produtos/brasileiros/flamengo-2026/flamengo-2026-frente.webp",
+      "img/produtos/brasileiros/flamengo-2026/flamengo-2026-costas.webp"
     ],
 
     destaque: true
@@ -390,10 +390,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/portugal-2026/portugal-2026-frente.jpeg",
+    imagem: "img/produtos/selecoes/portugal-2026/portugal-2026-frente.webp",
     imagens: [
-      "img/produtos/selecoes/portugal-2026/portugal-2026-frente.jpeg",
-      "img/produtos/selecoes/portugal-2026/portugal-2026-costas.jpeg"
+      "img/produtos/selecoes/portugal-2026/portugal-2026-frente.webp",
+      "img/produtos/selecoes/portugal-2026/portugal-2026-costas.webp"
     ],
 
     destaque: true
@@ -430,10 +430,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/franca-2026/franca-2026-frente.jpeg",
+    imagem: "img/produtos/selecoes/franca-2026/franca-2026-frente.webp",
     imagens: [
-      "img/produtos/selecoes/franca-2026/franca-2026-frente.jpeg",
-      "img/produtos/selecoes/franca-2026/franca-2026-costas.jpeg"
+      "img/produtos/selecoes/franca-2026/franca-2026-frente.webp",
+      "img/produtos/selecoes/franca-2026/franca-2026-costas.webp"
     ],
 
     destaque: true
@@ -470,10 +470,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-frente.jpeg",
+    imagem: "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-frente.webp",
     imagens: [
-      "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-frente.jpeg",
-      "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-costas.jpeg"
+      "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-frente.webp",
+      "img/produtos/retros/corinthians-2000-casa/corinthians-2000-casa-costas.webp"
     ],
 
     destaque: true
@@ -510,10 +510,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-frente.jpeg",
-      "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-costas.jpeg"
+      "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-frente.webp",
+      "img/produtos/retros/barcelona-03-04-visitante/barcelona-03-04-visitante-costas.webp"
     ],
 
     destaque: true
@@ -550,10 +550,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.jpeg",
+    imagem: "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.jpeg",
-      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-costas.jpeg"
+      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-frente.webp",
+      "img/produtos/retros/real-madrid-06-07-ii/real-madrid-06-07-ii-costas.webp"
     ],
 
     destaque: true
@@ -590,10 +590,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.jpeg",
+    imagem: "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.jpeg",
-      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-costas.jpeg"
+      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-frente.webp",
+      "img/produtos/retros/inter-milao-97-98-ii/inter-milao-97-98-ii-costas.webp"
     ],
 
     destaque: true
@@ -630,10 +630,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.jpeg",
+    imagem: "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.jpeg",
-      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-costas.jpeg"
+      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-frente.webp",
+      "img/produtos/retros/milan-06-07-ii/milan-06-07-ii-costas.webp"
     ],
 
     destaque: true
@@ -670,10 +670,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.jpeg",
-      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-costas.jpeg"
+      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-frente.webp",
+      "img/produtos/retros/barcelona-96-97-i/barcelona-96-97-i-costas.webp"
     ],
 
     destaque: true
@@ -710,10 +710,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-frente.jpeg",
-      "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-costas.jpeg"
+      "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-frente.webp",
+      "img/produtos/retros/barcelona-20-21-i/barcelona-20-21-i-costas.webp"
     ],
 
     destaque: true
@@ -750,10 +750,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-frente.jpeg",
-      "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-costas.jpeg"
+      "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-frente.webp",
+      "img/produtos/retros/barcelona-15-16-i/barcelona-15-16-i-costas.webp"
     ],
 
     destaque: true
@@ -790,10 +790,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-frente.jpeg",
-      "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-costas.jpeg"
+      "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-frente.webp",
+      "img/produtos/retros/barcelona-07-08-i/barcelona-07-08-i-costas.webp"
     ],
 
     destaque: true
@@ -830,10 +830,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.jpeg",
+    imagem: "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.jpeg",
-      "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-costas.jpeg"
+      "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-frente.webp",
+      "img/produtos/retros/barcelona-02-03-ii/barcelona-02-03-ii-costas.webp"
     ],
 
     destaque: true
@@ -870,10 +870,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.jpeg",
+    imagem: "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.webp",
     imagens: [
-      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.jpeg",
-      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-costas.jpeg"
+      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-frente.webp",
+      "img/produtos/retros/corinthians-12-13-i/corinthians-12-13-i-costas.webp"
     ],
 
     destaque: true
@@ -910,10 +910,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.jpeg",
+    imagem: "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.jpeg",
-      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-costas.jpeg"
+      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-frente.webp",
+      "img/produtos/retros/portugal-04-05-ii/portugal-04-05-ii-costas.webp"
     ],
 
     destaque: true
@@ -950,10 +950,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.jpeg",
+    imagem: "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.jpeg",
-      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-costas.jpeg"
+      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-frente.webp",
+      "img/produtos/retros/real-madrid-05-06-ii/real-madrid-05-06-ii-costas.webp"
     ],
 
     destaque: true
@@ -990,10 +990,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.jpeg",
+    imagem: "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.webp",
     imagens: [
-      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.jpeg",
-      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-costas.jpeg"
+      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-frente.webp",
+      "img/produtos/retros/real-madrid-11-12-i/real-madrid-11-12-i-costas.webp"
     ],
 
     destaque: true
@@ -1030,10 +1030,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.jpeg",
+    imagem: "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.webp",
     imagens: [
-      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.jpeg",
-      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-costas.jpeg"
+      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-frente.webp",
+      "img/produtos/retros/real-madrid-98-99-ii/real-madrid-98-99-ii-costas.webp"
     ],
 
     destaque: true
@@ -1070,10 +1070,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-frente.webp",
+      "img/produtos/internacionais/arsenal-26-27-i/arsenal-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -1110,10 +1110,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-frente.webp",
+      "img/produtos/internacionais/psg-26-27-i/psg-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -1150,10 +1150,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.jpeg",
-      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-costas.jpeg"
+      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-frente.webp",
+      "img/produtos/internacionais/real-madrid-25-26-i/real-madrid-25-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1190,10 +1190,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.jpeg",
-      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-costas.jpeg"
+      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-frente.webp",
+      "img/produtos/internacionais/real-madrid-25-26-ii/real-madrid-25-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1232,10 +1232,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-frente.webp",
+      "img/produtos/internacionais/real-madrid-26-27-i/real-madrid-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -1272,10 +1272,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-frente.jpeg",
-      "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-costas.jpeg"
+      "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-frente.webp",
+      "img/produtos/internacionais/miami-25-26-i/miami-25-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1312,10 +1312,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-frente.jpeg",
-      "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-costas.jpeg"
+      "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-frente.webp",
+      "img/produtos/internacionais/lyon-25-26-i/lyon-25-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1352,10 +1352,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-frente.webp",
+      "img/produtos/selecoes/portugal-26-27-ii/portugal-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -1392,10 +1392,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-frente.webp",
+      "img/produtos/selecoes/brasil-26-27-i/brasil-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -1432,10 +1432,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.jpeg",
+    imagem: "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.webp",
     imagens: [
-      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.jpeg",
-      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-costas.jpeg"
+      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-frente.webp",
+      "img/produtos/selecoes/brasil-red-26-27/brasil-red-26-27-costas.webp"
     ],
 
     destaque: true
@@ -1472,10 +1472,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/remo-25-i/remo-25-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/remo-25-i/remo-25-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/remo-25-i/remo-25-i-frente.jpeg",
-      "img/produtos/brasileiros/remo-25-i/remo-25-i-costas.jpeg"
+      "img/produtos/brasileiros/remo-25-i/remo-25-i-frente.webp",
+      "img/produtos/brasileiros/remo-25-i/remo-25-i-costas.webp"
     ],
 
     destaque: true
@@ -1512,10 +1512,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/remo-26-i/remo-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/remo-26-i/remo-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/remo-26-i/remo-26-i-frente.jpeg",
-      "img/produtos/brasileiros/remo-26-i/remo-26-i-costas.jpeg"
+      "img/produtos/brasileiros/remo-26-i/remo-26-i-frente.webp",
+      "img/produtos/brasileiros/remo-26-i/remo-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1552,10 +1552,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/remo-25-es/remo-25-es-frente.jpeg",
+    imagem: "img/produtos/brasileiros/remo-25-es/remo-25-es-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/remo-25-es/remo-25-es-frente.jpeg",
-      "img/produtos/brasileiros/remo-25-es/remo-25-es-costas.jpeg"
+      "img/produtos/brasileiros/remo-25-es/remo-25-es-frente.webp",
+      "img/produtos/brasileiros/remo-25-es/remo-25-es-costas.webp"
     ],
 
     destaque: true
@@ -1592,10 +1592,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-frente.webp",
+      "img/produtos/brasileiros/paysandu-26-ii/paysandu-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1632,10 +1632,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-frente.jpeg",
-      "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-costas.jpeg"
+      "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-frente.webp",
+      "img/produtos/brasileiros/paysandu-26-i/paysandu-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1672,10 +1672,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-frente.jpeg",
-      "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-costas.jpeg"
+      "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-frente.webp",
+      "img/produtos/brasileiros/paysandu-25-i/paysandu-25-i-costas.webp"
     ],
 
     destaque: true
@@ -1712,10 +1712,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-frente.jpeg",
-      "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-costas.jpeg"
+      "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-frente.webp",
+      "img/produtos/brasileiros/paysandu-23-iii/paysandu-23-iii-costas.webp"
     ],
 
     destaque: true
@@ -1752,10 +1752,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-frente.webp",
+      "img/produtos/brasileiros/flamengo-26-ii/flamengo-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1792,10 +1792,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-frente.webp",
+      "img/produtos/brasileiros/sao-paulo-26-ii/sao-paulo-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1832,10 +1832,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.jpeg",
-      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-costas.jpeg"
+      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-frente.webp",
+      "img/produtos/brasileiros/sao-paulo-26-i/sao-paulo-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1872,10 +1872,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-frente.webp",
+      "img/produtos/brasileiros/palmeiras-26-ii/palmeiras-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1912,10 +1912,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.jpeg",
-      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-costas.jpeg"
+      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-frente.webp",
+      "img/produtos/brasileiros/palmeiras-26-i/palmeiras-26-i-costas.webp"
     ],
 
     destaque: true
@@ -1952,10 +1952,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-frente.webp",
+      "img/produtos/brasileiros/corinthians-26-ii/corinthians-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -1992,10 +1992,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.jpeg",
-      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-costas.jpeg"
+      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-frente.webp",
+      "img/produtos/brasileiros/corinthians-26-i/corinthians-26-i-costas.webp"
     ],
 
     destaque: true
@@ -2032,10 +2032,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-frente.webp",
+      "img/produtos/internacionais/liverpool-26-27-i/liverpool-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2072,10 +2072,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.jpeg",
-      "img/produtos/brasileiros/santos-26-i/santos-26-i-costas.jpeg"
+      "img/produtos/brasileiros/santos-26-i/santos-26-i-frente.webp",
+      "img/produtos/brasileiros/santos-26-i/santos-26-i-costas.webp"
     ],
 
     destaque: true
@@ -2112,10 +2112,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-frente.webp",
+      "img/produtos/brasileiros/bahia-26-ii/bahia-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -2152,10 +2152,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.jpeg",
-      "img/produtos/brasileiros/sport-26-i/sport-26-i-costas.jpeg"
+      "img/produtos/brasileiros/sport-26-i/sport-26-i-frente.webp",
+      "img/produtos/brasileiros/sport-26-i/sport-26-i-costas.webp"
     ],
 
     destaque: true
@@ -2192,10 +2192,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.jpeg",
-      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-costas.jpeg"
+      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-frente.webp",
+      "img/produtos/brasileiros/botafogo-26-i/botafogo-26-i-costas.webp"
     ],
 
     destaque: true
@@ -2232,10 +2232,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-frente.webp",
+      "img/produtos/brasileiros/santos-26-ii/santos-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -2272,10 +2272,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-frente.webp",
+      "img/produtos/brasileiros/paranaense-26-ii/paranaense-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -2312,10 +2312,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.jpeg",
-      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-costas.jpeg"
+      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-frente.webp",
+      "img/produtos/brasileiros/palmeiras-gk-26-iii/palmeiras-gk-26-iii-costas.webp"
     ],
 
     destaque: true
@@ -2352,10 +2352,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.jpeg",
-      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-costas.jpeg"
+      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-frente.webp",
+      "img/produtos/brasileiros/botafogo-gk-26-i/botafogo-gk-26-i-costas.webp"
     ],
 
     destaque: true
@@ -2392,10 +2392,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-frente.webp",
+      "img/produtos/selecoes/colombia-26-27-i/colombia-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2432,10 +2432,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.jpeg",
+    imagem: "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.webp",
     imagens: [
-      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.jpeg",
-      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-costas.jpeg"
+      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-frente.webp",
+      "img/produtos/selecoes/portugal-26-27-ee/portugal-26-27-ee-costas.webp"
     ],
 
     destaque: true
@@ -2472,10 +2472,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-frente.webp",
+      "img/produtos/selecoes/cabo-verde-26-27-i/cabo-verde-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2512,10 +2512,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-frente.webp",
+      "img/produtos/selecoes/espanha-26-27-i/espanha-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2552,10 +2552,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-frente.webp",
+      "img/produtos/internacionais/bayern-26-27-i/bayern-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2592,10 +2592,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-frente.webp",
+      "img/produtos/internacionais/barcelona-26-27-i/barcelona-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2632,10 +2632,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/city-26-27-i/city-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/city-26-27-i/city-26-27-i-frente.webp",
+      "img/produtos/internacionais/city-26-27-i/city-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2672,10 +2672,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-frente.webp",
+      "img/produtos/internacionais/betis-26-27-i/betis-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2712,10 +2712,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-frente.webp",
+      "img/produtos/internacionais/inter-26-27-i/inter-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2752,10 +2752,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.jpeg",
-      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-costas.jpeg"
+      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-frente.webp",
+      "img/produtos/internacionais/milan-26-27-ii/milan-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -2792,10 +2792,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-frente.webp",
+      "img/produtos/internacionais/newcastle-26-27-i/newcastle-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2832,10 +2832,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-frente.webp",
+      "img/produtos/internacionais/aston-26-27-i/aston-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2872,10 +2872,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-frente.webp",
+      "img/produtos/internacionais/celtic-26-27-i/celtic-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -2952,10 +2952,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.jpeg",
+    imagem: "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.jpeg",
-      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-costas.jpeg"
+      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-frente.webp",
+      "img/produtos/internacionais/arsenal-26-27-iii/arsenal-26-27-iii-costas.webp"
     ],
 
     destaque: true
@@ -2992,10 +2992,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/united-26-27-i/united-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/united-26-27-i/united-26-27-i-frente.webp",
+      "img/produtos/internacionais/united-26-27-i/united-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3032,10 +3032,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.jpeg",
-      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-costas.jpeg"
+      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-frente.webp",
+      "img/produtos/brasileiros/cruzeiro-26-i/cruzeiro-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3072,10 +3072,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-frente.webp",
+      "img/produtos/brasileiros/cruzeiro-26-ii/cruzeiro-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -3112,10 +3112,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.jpeg",
-      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-costas.jpeg"
+      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-frente.webp",
+      "img/produtos/brasileiros/internacional-26-i/internacional-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3152,10 +3152,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-frente.webp",
+      "img/produtos/brasileiros/internacional-26-ii/internacional-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -3192,10 +3192,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.jpeg",
-      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-costas.jpeg"
+      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-frente.webp",
+      "img/produtos/brasileiros/gremio-26-i/gremio-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3232,10 +3232,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-frente.webp",
+      "img/produtos/brasileiros/gremio-26-ii/gremio-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -3272,10 +3272,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.jpeg",
-      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-costas.jpeg"
+      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-frente.webp",
+      "img/produtos/brasileiros/fluminense-26-i/fluminense-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3312,10 +3312,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-frente.webp",
+      "img/produtos/brasileiros/fluminense-26-ii/fluminense-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -3352,10 +3352,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.jpeg",
-      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-costas.jpeg"
+      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-frente.webp",
+      "img/produtos/brasileiros/vitoria-26-i/vitoria-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3392,10 +3392,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.jpeg",
+    imagem: "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.jpeg",
-      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-costas.jpeg"
+      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-frente.webp",
+      "img/produtos/brasileiros/coritiba-26-i/coritiba-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3432,10 +3432,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.jpeg",
+    imagem: "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.jpeg",
-      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-costas.jpeg"
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-costas.webp"
     ],
 
     destaque: true
@@ -3472,10 +3472,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-frente.webp",
+      "img/produtos/internacionais/nassr-26-27-i/nassr-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3512,10 +3512,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-frente.jpeg",
-      "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-costas.jpeg"
+      "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-frente.webp",
+      "img/produtos/internacionais/nassr-25-26-i/nassr-25-26-i-costas.webp"
     ],
 
     destaque: true
@@ -3555,7 +3555,7 @@ const produtos = [
     imagem: "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.webp",
     imagens: [
       "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-frente.webp",
-      "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-costas.jpeg"
+      "img/produtos/internacionais/nassr-25-26-iii/nassr-25-26-iii-costas.webp"
     ],
 
     destaque: true
@@ -3592,10 +3592,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-frente.webp",
+      "img/produtos/internacionais/dortmund-26-27-i/dortmund-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3632,10 +3632,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-frente.webp",
+      "img/produtos/internacionais/frankfurt-26-27-i/frankfurt-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3672,10 +3672,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-frente.jpeg",
-      "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-costas.jpeg"
+      "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-frente.webp",
+      "img/produtos/internacionais/chelsea-26-27-ii/chelsea-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -3712,10 +3712,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-frente.webp",
+      "img/produtos/internacionais/chelsea-26-27-i/chelsea-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3752,10 +3752,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-frente.jpeg",
+    imagem: "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-frente.jpeg",
-      "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-costas.jpeg"
+      "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-frente.webp",
+      "img/produtos/internacionais/olympiacos-26-27-i/olympiacos-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -3792,10 +3792,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-frente.jpeg",
-      "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-costas.jpeg"
+      "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-frente.webp",
+      "img/produtos/internacionais/arsenal-26-27-ii/arsenal-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -3832,10 +3832,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-frente.jpeg",
+    imagem: "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-frente.jpeg",
-      "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-costas.jpeg"
+      "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-frente.webp",
+      "img/produtos/internacionais/real-26-27-iii/real-26-27-iii-costas.webp"
     ],
 
     destaque: true
@@ -3912,10 +3912,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-frente.jpeg",
-      "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-costas.jpeg"
+      "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-frente.webp",
+      "img/produtos/internacionais/bayern-26-27-ii/bayern-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -3952,10 +3952,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/remo-1999-i/remo-1999-i-frente.jpeg",
+    imagem: "img/produtos/retros/remo-1999-i/remo-1999-i-frente.webp",
     imagens: [
-      "img/produtos/retros/remo-1999-i/remo-1999-i-frente.jpeg",
-      "img/produtos/retros/remo-1999-i/remo-1999-i-costas.jpeg"
+      "img/produtos/retros/remo-1999-i/remo-1999-i-frente.webp",
+      "img/produtos/retros/remo-1999-i/remo-1999-i-costas.webp"
     ],
 
     destaque: true
@@ -3992,10 +3992,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.jpeg",
+    imagem: "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.webp",
     imagens: [
-      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.jpeg",
-      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-costas.jpeg"
+      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-frente.webp",
+      "img/produtos/retros/paysandu-2003-i/paysandu-2003-i-costas.webp"
     ],
 
     destaque: true
@@ -4072,10 +4072,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-frente.webp",
+      "img/produtos/selecoes/espanha-26-27-ii/espanha-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4112,10 +4112,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-frente.webp",
+      "img/produtos/selecoes/brasil-26-27-ii/brasil-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4152,10 +4152,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-frente.webp",
+      "img/produtos/selecoes/argentina-26-27-i/argentina-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4192,10 +4192,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-frente.webp",
+      "img/produtos/selecoes/argentina-26-27-ii/argentina-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4232,10 +4232,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-frente.webp",
+      "img/produtos/selecoes/alemanha-26-27-i/alemanha-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4272,10 +4272,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-frente.webp",
+      "img/produtos/selecoes/alemanha-26-27-ii/alemanha-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4312,10 +4312,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-frente.webp",
+      "img/produtos/selecoes/franca-26-27-ii/franca-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4352,10 +4352,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-frente.webp",
+      "img/produtos/selecoes/mexico-26-27-i/mexico-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4392,10 +4392,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-frente.webp",
+      "img/produtos/selecoes/mexico-26-27-ii/mexico-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4431,10 +4431,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-frente.webp",
+      "img/produtos/selecoes/inglaterra-26-27-i/inglaterra-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4471,10 +4471,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-frente.webp",
+      "img/produtos/selecoes/inglaterra-26-27-ii/inglaterra-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4511,10 +4511,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-frente.webp",
+      "img/produtos/selecoes/italia-26-27-i/italia-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4551,10 +4551,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-frente.webp",
+      "img/produtos/selecoes/italia-26-27-ii/italia-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4591,10 +4591,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-frente.webp",
+      "img/produtos/selecoes/colombia-26-27-ii/colombia-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4631,10 +4631,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-frente.webp",
+      "img/produtos/selecoes/belgica-26-27-i/belgica-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4671,10 +4671,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-frente.webp",
+      "img/produtos/selecoes/belgica-26-27-ii/belgica-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4711,10 +4711,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-frente.webp",
+      "img/produtos/selecoes/japao-26-27-i/japao-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4751,10 +4751,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-frente.webp",
+      "img/produtos/selecoes/japao-26-27-ii/japao-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4791,10 +4791,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-frente.webp",
+      "img/produtos/selecoes/holanda-26-27-i/holanda-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4831,10 +4831,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-frente.webp",
+      "img/produtos/selecoes/holanda-26-27-ii/holanda-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4871,10 +4871,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-frente.webp",
+      "img/produtos/selecoes/escocia-26-27-i/escocia-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4911,10 +4911,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-frente.webp",
+      "img/produtos/selecoes/argelia-26-27-i/argelia-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -4951,10 +4951,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-frente.webp",
+      "img/produtos/selecoes/uruguai-26-27-ii/uruguai-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -4991,10 +4991,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-frente.webp",
+      "img/produtos/selecoes/equador-26-27-ii/equador-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5031,10 +5031,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-frente.webp",
+      "img/produtos/selecoes/tcheca-26-27-ii/tcheca-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5071,10 +5071,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-frente.webp",
+      "img/produtos/selecoes/austria-26-27-ii/austria-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5111,10 +5111,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-frente.webp",
+      "img/produtos/selecoes/africa-26-27-ii/africa-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5151,10 +5151,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-frente.webp",
+      "img/produtos/selecoes/jamaica-26-27-i/jamaica-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -5191,10 +5191,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-frente.webp",
+      "img/produtos/selecoes/usa-26-27-i/usa-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -5231,10 +5231,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-frente.webp",
+      "img/produtos/selecoes/usa-26-27-ii/usa-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5271,10 +5271,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-frente.webp",
+      "img/produtos/selecoes/coreia-26-27-ii/coreia-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5311,10 +5311,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.jpeg",
+    imagem: "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.webp",
     imagens: [
-      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.jpeg",
-      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-costas.jpeg"
+      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-frente.webp",
+      "img/produtos/selecoes/marrocos-26-27-i/marrocos-26-27-i-costas.webp"
     ],
 
     destaque: true
@@ -5351,10 +5351,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.jpeg",
+    imagem: "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.webp",
     imagens: [
-      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.jpeg",
-      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-costas.jpeg"
+      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-frente.webp",
+      "img/produtos/selecoes/marrocos-26-27-ii/marrocos-26-27-ii-costas.webp"
     ],
 
     destaque: true
@@ -5431,10 +5431,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.jpeg",
+    imagem: "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.webp",
     imagens: [
-      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.jpeg",
-      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-costas.jpeg"
+      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-frente.webp",
+      "img/produtos/internacionais/barca-26-27-iii/barca-26-27-iii-costas.webp"
     ],
 
     destaque: true
