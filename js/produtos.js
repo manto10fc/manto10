@@ -5944,7 +5944,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 150,
+      prontaEntrega: 155,
       encomenda: 150
     },
 
@@ -6439,4 +6439,484 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 162,
+    codigo: "00162",
+    nome: "Camisa Flamengo III 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-26-iii/flamengo-26-iii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-26-iii/flamengo-26-iii-frente.webp",
+      "img/produtos/brasileiros/flamengo-26-iii/flamengo-26-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 163,
+    codigo: "00163",
+    nome: "Camisa Flamengo I 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-i/flamengo-25-i-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-i/flamengo-25-i-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-i/flamengo-25-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 164,
+    codigo: "00164",
+    nome: "Camisa Flamengo II 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-ii/flamengo-25-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-ii/flamengo-25-ii-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-ii/flamengo-25-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 165,
+    codigo: "00165",
+    nome: "Camisa Flamengo III 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-iii/flamengo-25-iii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-iii/flamengo-25-iii-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-iii/flamengo-25-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 166,
+    codigo: "00166",
+    nome: "Camisa Flamengo Casual 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-casual/flamengo-25-casual-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-casual/flamengo-25-casual-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-casual/flamengo-25-casual-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 167,
+    codigo: "00167",
+    nome: "Camisa Flamengo Black Edição Especial 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-ed/flamengo-25-ed-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-ed/flamengo-25-ed-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-ed/flamengo-25-ed-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 168,
+    codigo: "00168",
+    nome: "Camisa Flamengo Preta Retrô 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 155,
+      encomenda: 150
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-black/flamengo-25-black-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-black/flamengo-25-black-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-black/flamengo-25-black-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 169,
+    codigo: "00169",
+    nome: "Camisa Camisa Flamengo US 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-25-us/flamengo-25-us-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-25-us/flamengo-25-us-frente.webp",
+      "img/produtos/brasileiros/flamengo-25-us/flamengo-25-us-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 170,
+    codigo: "00170",
+    nome: "Camisa Flamengo I 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-24-i/flamengo-24-i-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-24-i/flamengo-24-i-frente.webp",
+      "img/produtos/brasileiros/flamengo-24-i/flamengo-24-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 171,
+    codigo: "00171",
+    nome: "Camisa Flamengo II 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-24-ii/flamengo-24-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-24-ii/flamengo-24-ii-frente.webp",
+      "img/produtos/brasileiros/flamengo-24-ii/flamengo-24-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 172,
+    codigo: "00172",
+    nome: "Camisa Flamengo Vermelha Retrô 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 155,
+      encomenda: 150
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-24-red/flamengo-24-red-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-24-red/flamengo-24-red-frente.webp",
+      "img/produtos/brasileiros/flamengo-24-red/flamengo-24-red-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 173,
+    codigo: "00173",
+    nome: "Camisa Flamengo III 2023",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2023",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-23-iii/flamengo-23-iii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-23-iii/flamengo-23-iii-frente.webp",
+      "img/produtos/brasileiros/flamengo-23-iii/flamengo-23-iii-costas.webp"
+    ],
+
+    destaque: true
+  }, 
 ];
