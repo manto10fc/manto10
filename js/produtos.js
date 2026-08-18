@@ -6918,5 +6918,245 @@ const produtos = [
     ],
 
     destaque: true
-  }, 
+  },
+  
+  {
+    id: 174,
+    codigo: "00174",
+    nome: "Camisa Flamengo I 2010",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Olympikus",
+    temporada: "2010",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-10-i/flamengo-10-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-10-i/flamengo-10-i-frente.webp",
+      "img/produtos/retros/flamengo-10-i/flamengo-10-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 175,
+    codigo: "00175",
+    nome: "Camisa Flamengo I 2009",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Olympikus",
+    temporada: "2009",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-09-i/flamengo-09-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-09-i/flamengo-09-i-frente.webp",
+      "img/produtos/retros/flamengo-09-i/flamengo-09-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 176,
+    codigo: "00176",
+    nome: "Camisa Flamengo I 2008",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2008",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-08-i/flamengo-08-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-08-i/flamengo-08-i-frente.webp",
+      "img/produtos/retros/flamengo-08-i/flamengo-08-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 177,
+    codigo: "00177",
+    nome: "Camisa Flamengo I 2002",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2002",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-02-i/flamengo-02-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-02-i/flamengo-02-i-frente.webp",
+      "img/produtos/retros/flamengo-02-i/flamengo-02-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 178,
+    codigo: "00178",
+    nome: "Camisa Flamengo II 2001",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2001",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-01-ii/flamengo-01-ii-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-01-ii/flamengo-01-ii-frente.webp",
+      "img/produtos/retros/flamengo-01-ii/flamengo-01-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 179,
+    codigo: "00179",
+    nome: "Camisa Flamengo I 1995",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Umbro",
+    temporada: "1995",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/flamengo-95-i/flamengo-95-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/flamengo-95-i/flamengo-95-i-frente.webp",
+      "img/produtos/retros/flamengo-95-i/flamengo-95-i-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
