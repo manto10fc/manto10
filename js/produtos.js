@@ -12,7 +12,7 @@ const produtos = [
     estoque: {
       prontaEntrega: {
         P: 0,
-        M: 0,
+        M: 1,
         G: 0,
         GG: 0,
 "2GG": 0,
@@ -93,7 +93,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 0,
+        G: 1,
         GG: 0,
 "2GG": 0,
 "3GG": 0,
@@ -132,7 +132,7 @@ const produtos = [
     estoque: {
       prontaEntrega: {
         P: 0,
-        M: 0,
+        M: 1,
         G: 0,
         GG: 0,
 "2GG": 0,
@@ -253,7 +253,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 0,
+        G: 1,
         GG: 0,
 "2GG": 0,
 "3GG": 0,
@@ -293,7 +293,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 0,
+        G: 1,
         GG: 0,
 "2GG": 0,
 "3GG": 0,
@@ -413,7 +413,7 @@ const produtos = [
       prontaEntrega: {
         P: 0,
         M: 0,
-        G: 0,
+        G: 1,
         GG: 0,
 "2GG": 0,
 "3GG": 0,
@@ -1091,11 +1091,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
-        G: 0,
-        GG: 0,
-"2GG": 0,
+        P: 5,
+        M: 15,
+        G: 20,
+        GG: 15,
+"2GG": 6,
 "3GG": 0,
 "4GG": 0
       },
@@ -1213,11 +1213,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
-        G: 0,
-        GG: 0,
-"2GG": 0,
+        P: 5,
+        M: 14,
+        G: 19,
+        GG: 18,
+"2GG": 5,
 "3GG": 0,
 "4GG": 0
       },
@@ -2013,11 +2013,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
-        G: 0,
-        GG: 0,
-"2GG": 0,
+        P: 3,
+        M: 8,
+        G: 5,
+        GG: 4,
+"2GG": 2,
 "3GG": 0,
 "4GG": 0
       },
@@ -4293,10 +4293,10 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
-        G: 0,
-        GG: 0,
+        P: 5,
+        M: 15,
+        G: 11,
+        GG: 6,
 "2GG": 0,
 "3GG": 0,
 "4GG": 0
