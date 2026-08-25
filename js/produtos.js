@@ -7479,4 +7479,324 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 188,
+    codigo: "00188",
+    nome: "Camisa Paysandu II 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-25-ii/paysandu-25-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-25-ii/paysandu-25-ii-frente.webp",
+      "img/produtos/brasileiros/paysandu-25-ii/paysandu-25-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 189,
+    codigo: "00189",
+    nome: "Camisa Paysandu III 2025",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2025",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-25-iii/paysandu-25-iii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-25-iii/paysandu-25-iii-frente.webp",
+      "img/produtos/brasileiros/paysandu-25-iii/paysandu-25-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 190,
+    codigo: "00190",
+    nome: "Camisa Paysandu I 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-24-i/paysandu-24-i-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-24-i/paysandu-24-i-frente.webp",
+      "img/produtos/brasileiros/paysandu-24-i/paysandu-24-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 191,
+    codigo: "00191",
+    nome: "Camisa Paysandu II 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-24-ii/paysandu-24-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-24-ii/paysandu-24-ii-frente.webp",
+      "img/produtos/brasileiros/paysandu-24-ii/paysandu-24-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 192,
+    codigo: "00192",
+    nome: "Camisa Paysandu III 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-24-iii/paysandu-24-iii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-24-iii/paysandu-24-iii-frente.webp",
+      "img/produtos/brasileiros/paysandu-24-iii/paysandu-24-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 193,
+    codigo: "00193",
+    nome: "Camisa Paysandu Preta 2024",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2024",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-24-black/paysandu-24-black-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-24-black/paysandu-24-black-frente.webp",
+      "img/produtos/brasileiros/paysandu-24-black/paysandu-24-black-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 194,
+    codigo: "00194",
+    nome: "Camisa Paysandu I 2023",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2023",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-23-i/paysandu-23-i-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-23-i/paysandu-23-i-frente.webp",
+      "img/produtos/brasileiros/paysandu-23-i/paysandu-23-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 195,
+    codigo: "00195",
+    nome: "Camisa Paysandu II 2023",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Lobo",
+    temporada: "2023",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/paysandu-23-ii/paysandu-23-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/paysandu-23-ii/paysandu-23-ii-frente.webp",
+      "img/produtos/brasileiros/paysandu-23-ii/paysandu-23-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
