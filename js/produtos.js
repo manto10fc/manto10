@@ -331,11 +331,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 57,
-        M: 204,
-        G: 303,
-        GG: 285,
-"2GG": 0,
+        P: 39,
+        M: 168,
+        G: 260,
+        GG: 250,
+"2GG": 70,
 "3GG": 0,
 "4GG": 0
       },
@@ -1853,11 +1853,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 0,
-        M: 0,
+        P: 11,
+        M: 3,
         G: 0,
-        GG: 20,
-"2GG": 0,
+        GG: 11,
+"2GG": 21,
 "3GG": 0,
 "4GG": 0
       },
@@ -1893,11 +1893,11 @@ const produtos = [
 
     estoque: {
       prontaEntrega: {
-        P: 13,
-        M: 41,
-        G: 82,
-        GG: 97,
-"2GG": 0,
+        P: 10,
+        M: 26,
+        G: 58,
+        GG: 88,
+"2GG": 32,
 "3GG": 0,
 "4GG": 0
       },
