@@ -7879,4 +7879,84 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 198,
+    codigo: "00198",
+    nome: "Camisa Coreia do Sul I 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/coreia-26-i/coreia-26-i-frente.webp",
+    imagens: [
+      "img/produtos/selecoes/coreia-26-i/coreia-26-i-frente.webp",
+      "img/produtos/selecoes/coreia-26-i/coreia-26-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 199,
+    codigo: "00199",
+    nome: "Camisa Inglaterra II 26/27",
+    categoria: "Seleções",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 145,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/selecoes/inglaterra-26-ii/inglaterra-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/selecoes/inglaterra-26-ii/inglaterra-26-ii-frente.webp",
+      "img/produtos/selecoes/inglaterra-26-ii/inglaterra-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
