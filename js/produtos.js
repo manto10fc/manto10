@@ -7799,4 +7799,84 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 196,
+    codigo: "00196",
+    nome: "Camisa Brasil I 1998",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "1998",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/brasil-98-i/brasil-98-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/brasil-98-i/brasil-98-i-frente.webp",
+      "img/produtos/retros/brasil-98-i/brasil-98-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 197,
+    codigo: "00197",
+    nome: "Camisa Brasil I 2002",
+    categoria: "Retrôs",
+    tipo: "retro",
+    marca: "Nike",
+    temporada: "2002",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 175,
+      encomenda: 170
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/retros/brasil-02-i/brasil-02-i-frente.webp",
+    imagens: [
+      "img/produtos/retros/brasil-02-i/brasil-02-i-frente.webp",
+      "img/produtos/retros/brasil-02-i/brasil-02-i-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
