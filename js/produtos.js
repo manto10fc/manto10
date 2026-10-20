@@ -23,7 +23,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -63,7 +63,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -103,7 +103,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -183,7 +183,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -223,7 +223,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -303,7 +303,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -343,7 +343,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -383,7 +383,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -423,7 +423,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1063,7 +1063,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1103,7 +1103,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1143,7 +1143,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1183,7 +1183,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1225,7 +1225,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1265,7 +1265,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1305,7 +1305,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1345,7 +1345,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1385,7 +1385,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1425,7 +1425,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1465,7 +1465,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1505,7 +1505,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1545,7 +1545,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1585,7 +1585,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1625,7 +1625,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1665,7 +1665,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1705,7 +1705,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1745,7 +1745,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1785,7 +1785,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1825,7 +1825,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1865,7 +1865,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1905,7 +1905,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1945,7 +1945,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -1985,7 +1985,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2025,7 +2025,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2065,7 +2065,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2105,7 +2105,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2145,7 +2145,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2185,7 +2185,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2225,7 +2225,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2265,7 +2265,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2305,7 +2305,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2345,7 +2345,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2385,7 +2385,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2425,7 +2425,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2465,7 +2465,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2505,7 +2505,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2545,7 +2545,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2585,7 +2585,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2625,7 +2625,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2665,7 +2665,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2705,7 +2705,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2745,7 +2745,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2785,7 +2785,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2825,7 +2825,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2865,7 +2865,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2905,7 +2905,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2945,7 +2945,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -2985,7 +2985,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3025,7 +3025,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3065,7 +3065,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3105,7 +3105,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3145,7 +3145,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3185,7 +3185,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3225,7 +3225,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3265,7 +3265,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3305,7 +3305,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3345,7 +3345,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3385,7 +3385,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3425,7 +3425,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3465,7 +3465,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3505,7 +3505,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3545,7 +3545,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3585,7 +3585,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3625,7 +3625,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3665,7 +3665,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3705,7 +3705,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3745,7 +3745,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3785,7 +3785,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3825,7 +3825,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3865,7 +3865,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -3905,7 +3905,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4025,7 +4025,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4065,7 +4065,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4105,7 +4105,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4145,7 +4145,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4185,7 +4185,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4225,7 +4225,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4265,7 +4265,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4305,7 +4305,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4345,7 +4345,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4385,7 +4385,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4424,7 +4424,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4464,7 +4464,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4504,7 +4504,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4544,7 +4544,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4584,7 +4584,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4624,7 +4624,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4664,7 +4664,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4704,7 +4704,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4744,7 +4744,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4784,7 +4784,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4824,7 +4824,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4864,7 +4864,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4904,7 +4904,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4944,7 +4944,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -4984,7 +4984,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5024,7 +5024,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5064,7 +5064,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5104,7 +5104,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5144,7 +5144,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5184,7 +5184,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5224,7 +5224,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5264,7 +5264,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5304,7 +5304,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5344,7 +5344,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5384,7 +5384,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5424,7 +5424,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5464,7 +5464,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5504,7 +5504,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5544,7 +5544,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5584,7 +5584,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5624,7 +5624,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5664,7 +5664,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5704,7 +5704,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5744,7 +5744,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5784,7 +5784,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5824,7 +5824,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5864,7 +5864,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -5904,7 +5904,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6464,7 +6464,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6504,7 +6504,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6544,7 +6544,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6584,7 +6584,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6624,7 +6624,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6664,7 +6664,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6784,7 +6784,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6824,7 +6824,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -6904,7 +6904,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7184,7 +7184,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7224,7 +7224,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7264,7 +7264,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7304,7 +7304,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7344,7 +7344,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7384,7 +7384,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7424,7 +7424,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7464,7 +7464,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7504,7 +7504,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7544,7 +7544,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7584,7 +7584,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7624,7 +7624,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7664,7 +7664,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7704,7 +7704,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7744,7 +7744,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7784,7 +7784,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7904,7 +7904,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
@@ -7944,7 +7944,7 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 130,
+      prontaEntrega: 140,
       encomenda: 130
     },
 
