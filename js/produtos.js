@@ -23,8 +23,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -63,8 +63,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -103,8 +103,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -143,8 +143,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -183,8 +183,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -223,8 +223,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -263,8 +263,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -303,8 +303,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -343,8 +343,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -383,8 +383,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -423,8 +423,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -463,8 +463,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -503,8 +503,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -543,8 +543,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -583,8 +583,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -623,8 +623,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -663,8 +663,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -703,8 +703,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -743,8 +743,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -783,8 +783,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -823,8 +823,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -863,8 +863,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -903,8 +903,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -943,8 +943,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -983,8 +983,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -1023,8 +1023,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -1063,8 +1063,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1103,8 +1103,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1143,8 +1143,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1183,8 +1183,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1225,8 +1225,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1265,8 +1265,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1305,8 +1305,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1345,8 +1345,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1385,8 +1385,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1425,8 +1425,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1465,8 +1465,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1505,8 +1505,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1545,8 +1545,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1585,8 +1585,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1625,8 +1625,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1665,8 +1665,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1705,8 +1705,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1745,8 +1745,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1785,8 +1785,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1825,8 +1825,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1865,8 +1865,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1905,8 +1905,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1945,8 +1945,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -1985,8 +1985,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2025,8 +2025,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2065,8 +2065,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2105,8 +2105,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2145,8 +2145,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2185,8 +2185,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2225,8 +2225,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2265,8 +2265,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2305,8 +2305,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2345,8 +2345,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2385,8 +2385,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2425,8 +2425,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2465,8 +2465,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2505,8 +2505,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2545,8 +2545,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2585,8 +2585,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2625,8 +2625,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2665,8 +2665,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2705,8 +2705,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2745,8 +2745,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2785,8 +2785,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2825,8 +2825,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2865,8 +2865,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2905,8 +2905,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2945,8 +2945,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -2985,8 +2985,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3025,8 +3025,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3065,8 +3065,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3105,8 +3105,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3145,8 +3145,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3185,8 +3185,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3225,8 +3225,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3265,8 +3265,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3305,8 +3305,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3345,8 +3345,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3385,8 +3385,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3425,8 +3425,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3465,8 +3465,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3505,8 +3505,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3545,8 +3545,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3585,8 +3585,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3625,8 +3625,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3665,8 +3665,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3705,8 +3705,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3745,8 +3745,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3785,8 +3785,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3825,8 +3825,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3865,8 +3865,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3905,8 +3905,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -3945,8 +3945,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -3985,8 +3985,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -4025,8 +4025,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4065,8 +4065,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4105,8 +4105,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4145,8 +4145,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4185,8 +4185,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4225,8 +4225,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4265,8 +4265,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4305,8 +4305,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4345,8 +4345,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4385,8 +4385,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4424,8 +4424,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4464,8 +4464,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4504,8 +4504,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4544,8 +4544,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4584,8 +4584,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4624,8 +4624,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4664,8 +4664,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4704,8 +4704,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4744,8 +4744,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4784,8 +4784,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4824,8 +4824,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4864,8 +4864,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4904,8 +4904,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4944,8 +4944,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -4984,8 +4984,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5024,8 +5024,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5064,8 +5064,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5104,8 +5104,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5144,8 +5144,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5184,8 +5184,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5224,8 +5224,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5264,8 +5264,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5304,8 +5304,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5344,8 +5344,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5384,8 +5384,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5424,8 +5424,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5464,8 +5464,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5504,8 +5504,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5544,8 +5544,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5561,8 +5561,8 @@ const produtos = [
   },
 
   {
-    id: 140,
-    codigo: "00140",
+    id: 130,
+    codigo: "00130",
     nome: "Camisa Corinthians I 2025",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
@@ -5584,8 +5584,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5624,8 +5624,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5664,8 +5664,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5704,8 +5704,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5744,8 +5744,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5761,8 +5761,8 @@ const produtos = [
   },
 
   {
-    id: 145,
-    codigo: "00145",
+    id: 130,
+    codigo: "00130",
     nome: "Camisa Corinthians III 2024",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
@@ -5784,8 +5784,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5824,8 +5824,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5864,8 +5864,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5904,8 +5904,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -5984,8 +5984,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6024,8 +6024,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6064,8 +6064,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6104,8 +6104,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6144,8 +6144,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6184,8 +6184,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6224,8 +6224,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6264,8 +6264,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6304,8 +6304,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6344,8 +6344,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6384,8 +6384,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6424,8 +6424,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6464,8 +6464,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6504,8 +6504,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6544,8 +6544,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6584,8 +6584,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6624,8 +6624,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6664,8 +6664,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6744,8 +6744,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6761,8 +6761,8 @@ const produtos = [
   },
 
   {
-    id: 170,
-    codigo: "00170",
+    id: 160,
+    codigo: "00160",
     nome: "Camisa Flamengo I 2024",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
@@ -6784,8 +6784,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6824,8 +6824,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6904,8 +6904,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -6944,8 +6944,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -6961,8 +6961,8 @@ const produtos = [
   },
 
   {
-    id: 175,
-    codigo: "00175",
+    id: 160,
+    codigo: "00160",
     nome: "Camisa Flamengo I 2009",
     categoria: "Retrôs",
     tipo: "retro",
@@ -6984,8 +6984,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7024,8 +7024,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7064,8 +7064,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7104,8 +7104,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7144,8 +7144,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7184,8 +7184,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7224,8 +7224,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7264,8 +7264,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7304,8 +7304,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7344,8 +7344,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7384,8 +7384,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7424,8 +7424,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7464,8 +7464,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7504,8 +7504,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7544,8 +7544,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7584,8 +7584,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7624,8 +7624,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7664,8 +7664,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7704,8 +7704,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7744,8 +7744,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7784,8 +7784,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7824,8 +7824,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7864,8 +7864,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 175,
-      encomenda: 170
+      prontaEntrega: 160,
+      encomenda: 160
     },
 
     personalizacao: true,
@@ -7904,8 +7904,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
@@ -7944,8 +7944,8 @@ const produtos = [
     },
 
     preco: {
-      prontaEntrega: 145,
-      encomenda: 140
+      prontaEntrega: 130,
+      encomenda: 130
     },
 
     personalizacao: true,
