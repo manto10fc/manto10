@@ -8039,4 +8039,44 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 202,
+    codigo: "00202",
+    nome: "Camisa PSG II 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/psg-26-ii/psg-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/psg-26-ii/psg-26-ii-frente.webp",
+      "img/produtos/internacionais/psg-26-ii/psg-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
