@@ -8123,7 +8123,7 @@ const produtos = [
   {
     id: 204,
     codigo: "00204",
-    nome: "Camisa Flamengo Viagem Preta",
+    nome: "Camisa Flamengo Originals Preta",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
     marca: "Adidas",
