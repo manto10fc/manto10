@@ -8119,4 +8119,44 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 204,
+    codigo: "00204",
+    nome: "Camisa Flamengo Viagem Preta",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 150,
+      encomenda: 140
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/flamengo-viagem-26/flamengo-viagem-26-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/flamengo-viagem-26/flamengo-viagem-26-frente.webp",
+      "img/produtos/brasileiros/flamengo-viagem-26/flamengo-viagem-26-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
