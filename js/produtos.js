@@ -7959,4 +7959,84 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 200,
+    codigo: "00200",
+    nome: "Camisa Vasco I 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/vasco-26-i/vasco-26-i-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/vasco-26-i/vasco-26-i-frente.webp",
+      "img/produtos/brasileiros/vasco-26-i/vasco-26-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 201,
+    codigo: "00201",
+    nome: "Camisa Vasco II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/vasco-26-ii/vasco-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/vasco-26-ii/vasco-26-ii-frente.webp",
+      "img/produtos/brasileiros/vasco-26-ii/vasco-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
