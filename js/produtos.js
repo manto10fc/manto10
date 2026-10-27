@@ -3404,7 +3404,7 @@ const produtos = [
   {
     id: 86,
     codigo: "00086",
-    nome: "Camisa Botafogo II 2026",
+    nome: "Camisa Botafogo III 2026",
     categoria: "Clubes Brasileiros",
     tipo: "normal",
     marca: "Mizuno",
@@ -3432,10 +3432,10 @@ const produtos = [
     personalizacao: true,
     valorPersonalizacao: 20,
 
-    imagem: "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
+    imagem: "img/produtos/brasileiros/botafogo-26-iii/botafogo-26-iii-frente.webp",
     imagens: [
-      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
-      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-costas.webp"
+      "img/produtos/brasileiros/botafogo-26-iii/botafogo-26-iii-frente.webp",
+      "img/produtos/brasileiros/botafogo-26-iii/botafogo-26-iii-costas.webp"
     ],
 
     destaque: true
@@ -8075,6 +8075,46 @@ const produtos = [
     imagens: [
       "img/produtos/internacionais/psg-26-ii/psg-26-ii-frente.webp",
       "img/produtos/internacionais/psg-26-ii/psg-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 203,
+    codigo: "00203",
+    nome: "Camisa Botafogo II 2026",
+    categoria: "Clubes Brasileiros",
+    tipo: "normal",
+    marca: "Mizuno",
+    temporada: "2026",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-frente.webp",
+      "img/produtos/brasileiros/botafogo-26-ii/botafogo-26-ii-costas.webp"
     ],
 
     destaque: true
