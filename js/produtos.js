@@ -8159,4 +8159,244 @@ const produtos = [
 
     destaque: true
   },
+
+  {
+    id: 205,
+    codigo: "00205",
+    nome: "Camisa New Castle III 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/newcastle-26-iii/newcastle-26-iii-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/newcastle-26-iii/newcastle-26-iii-frente.webp",
+      "img/produtos/internacionais/newcastle-26-iii/newcastle-26-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 206,
+    codigo: "00206",
+    nome: "Camisa Olympique de Marseille III 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Puma",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/marseille-26-iii/marseille-26-iii-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/marseille-26-iii/marseille-26-iii-frente.webp",
+      "img/produtos/internacionais/marseille-26-iii/marseille-26-iii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 207,
+    codigo: "00207",
+    nome: "Camisa Roma I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/roma-26-i/roma-26-i-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/roma-26-i/roma-26-i-frente.webp",
+      "img/produtos/internacionais/roma-26-i/roma-26-i-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 208,
+    codigo: "00208",
+    nome: "Camisa Roma II 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Adidas",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/roma-26-ii/roma-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/roma-26-ii/roma-26-ii-frente.webp",
+      "img/produtos/internacionais/roma-26-ii/roma-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 209,
+    codigo: "00209",
+    nome: "Camisa Inter de Miami II 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/miami-26-ii/miami-26-ii-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/miami-26-ii/miami-26-ii-frente.webp",
+      "img/produtos/internacionais/miami-26-ii/miami-26-ii-costas.webp"
+    ],
+
+    destaque: true
+  },
+
+  {
+    id: 210,
+    codigo: "00210",
+    nome: "Camisa Ravenna FC Especial I 26/27",
+    categoria: "Clubes Internacionais",
+    tipo: "normal",
+    marca: "Nike",
+    temporada: "2026/2027",
+    versao: "Torcedor",
+
+    estoque: {
+      prontaEntrega: {
+        P: 0,
+        M: 0,
+        G: 0,
+        GG: 0,
+"2GG": 0,
+"3GG": 0,
+"4GG": 0
+      },
+      encomenda: ["P", "M", "G", "GG", "2GG", "3GG", "4GG"]
+    },
+
+    preco: {
+      prontaEntrega: 140,
+      encomenda: 130
+    },
+
+    personalizacao: true,
+    valorPersonalizacao: 20,
+
+    imagem: "img/produtos/internacionais/ravenna-26-i/ravenna-26-i-frente.webp",
+    imagens: [
+      "img/produtos/internacionais/ravenna-26-i/ravenna-26-i-frente.webp",
+      "img/produtos/internacionais/ravenna-26-i/ravenna-26-i-costas.webp"
+    ],
+
+    destaque: true
+  },
 ];
